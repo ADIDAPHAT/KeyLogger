@@ -1,0 +1,10 @@
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\bin\Debug\Windows Security Application.exe.config
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\bin\Debug\WindowsSecurityApplication.exe.config
+F:\HTHT\Keylog\WindowsSecurityApplication.exe.config
+F:\HTHT\Keylog\WindowsSecurityApplication.exe
+F:\HTHT\Keylog\WindowsSecurityApplication.pdb
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\obj\Debug\Windows_Security_Application.frm_Main.resources
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\obj\Debug\Windows_Security_Application.Properties.Resources.resources
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\obj\Debug\Windows Security Application.csproj.GenerateResource.Cache
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\obj\Debug\WindowsSecurityApplication.exe
+C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Windows Security Application\Windows Security Application\obj\Debug\WindowsSecurityApplication.pdb
