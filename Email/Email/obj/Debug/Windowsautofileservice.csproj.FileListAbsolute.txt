@@ -1,9 +1,0 @@
-C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Email\Email\obj\Debug\Windowsautofileservice.csproj.GenerateResource.Cache
-C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Email\Email\obj\Debug\Windowsautofileservice.Form1.resources
-F:\HTHT\Keylog\Windowsautofileservice.exe.config
-F:\HTHT\Keylog\Windowsautofileservice.exe
-F:\HTHT\Keylog\Windowsautofileservice.pdb
-C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Email\Email\obj\Debug\Windowsautofileservice.Properties.Resources.resources
-C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Email\Email\obj\Debug\Windowsautofileservice.exe
-C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Email\Email\obj\Debug\Windowsautofileservice.pdb
-C:\Users\adida\OneDrive\Document\Visual Studio 2015\Projects\Email\Email\obj\Debug\Windowsautofileservice.csprojResolveAssemblyReference.cache

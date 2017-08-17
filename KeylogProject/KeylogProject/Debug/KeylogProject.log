@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  Source.cpp
-c:\users\adida\onedrive\document\visual studio 2015\projects\keylogproject\keylogproject\source.cpp(150): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
-  CaptureSCR.cpp
-  Generating Code...
-  KeylogProject.vcxproj -> F:\HTHT\Keylog\Windowsautofiledevice.exe
-  KeylogProject.vcxproj -> F:\HTHT\Keylog\Windowsautofiledevice.pdb (Full PDB)
